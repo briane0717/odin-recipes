@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is to build a simple recipe site. So far I have learned new things about HTML. HTML has elements which consist of a opening tag, content, and a closing tag. Tags can have attributes as well. Attributes are written inside the opening tag of an element and give the element some information. I have also learned about Git and Github.
